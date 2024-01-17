@@ -1,4 +1,4 @@
-# AnalogWallFollowingRobot
+# Analog Wall Following Robot
 This is a group project done under the module EN2091 - Laboratory Practice and Projects, Semester 3, Department of Electronic and Telecommunication Engineering, University of Moratuwa. 
 
 
