@@ -1,7 +1,7 @@
 # Analog Wall Following Robot
 This is a group project done under the module EN2091 - Laboratory Practice and Projects, Semester 3, Department of Electronic and Telecommunication Engineering, University of Moratuwa. 
 
-**Introduction**
+## Introduction
 
 *  Wall following robot is a robot that follows a wall and travels keeping a constant distance from the wall. 
 *  Wall following is a common task in many robotics competitions.
@@ -9,12 +9,12 @@ This is a group project done under the module EN2091 - Laboratory Practice and P
 
 ![IMG-20231206-WA0097](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/assets/106037441/241e426e-1c0c-4cf3-a58a-3e9705a20f41)
 
-**Working Concept**
+## Working Concept
 
 *  We measured the distance from the robot to the side walls using two sharp IR sensors. 
 *  Then using a PID control circuit, a signal is generated so that the robot tracks the walls and travels on the centerline between walls.
 
-**Sub Circuits and Tasks**
+## Sub Circuits and Tasks
 
 * Instrumentation Amplifier- Reduce noise in Sharp IR sensor outputs and amplify signals
 * PID circuit- Control the error signal smoothly using feedback
@@ -27,7 +27,7 @@ This is a group project done under the module EN2091 - Laboratory Practice and P
 * Voltage Regulator- To get 3.3V and 5V for required parts accordingly
 * Speed Selector- Manually control the base speed
 
-**Hardware Specifications**
+## Hardware Specifications
 
 * TL084CN ICs
 * Two Sharp IR Sensors
@@ -37,22 +37,22 @@ This is a group project done under the module EN2091 - Laboratory Practice and P
 * SMD resistors
 * SMD capacitors
 
-**Software Specifications**
+## Software Specifications
 
 * Solid Works
 * Altium Designer
 * Multisim
 
-**Enclosure Design**
+## Enclosure Design
 
 ![Screenshot 2024-01-17 061048](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/assets/106037441/194de710-68c9-488a-863e-5720f45de2e3)
 
-**PCB Design**
+## PCB Design
 
 ![Screenshot 2024-01-17 061105](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/assets/106037441/3d634f6e-09d5-489e-bc33-8ddfe3addcb4)
 
 ![Screenshot 2024-01-17 061120](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/assets/106037441/9f6abf7a-bebd-4099-b00e-d726d3bc01c8)
 
-**Team Members**
+## Team Members
 
 ![image](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/assets/106037441/2d9a9b91-cac6-405b-b309-e2aa63132ca0)
