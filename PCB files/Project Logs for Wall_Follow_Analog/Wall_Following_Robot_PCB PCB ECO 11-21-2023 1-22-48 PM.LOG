@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=C2_Buck NewDesignator=C2in_Buck
+Change Component Designator: OldDesignator=C3_Buck NewDesignator=C3out_Buck
+Change Component Designator: OldDesignator=C4_Buck NewDesignator=C4out_Buck
+Change Component Designator: OldDesignator=U8 PWM SMD NewDesignator=U8 PWM
+Change Component Designator: OldDesignator=U9 PWM SMD NewDesignator=U9 PWM
+Change Component Designator: OldDesignator=U10 PWM SMD NewDesignator=U10 PWM

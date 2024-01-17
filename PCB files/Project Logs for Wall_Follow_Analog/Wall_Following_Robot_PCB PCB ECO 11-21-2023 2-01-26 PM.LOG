@@ -1,0 +1,18 @@
+Change Component Designator: OldDesignator=R022 SPEED SEL NewDesignator=R022SS
+Change Component Designator: OldDesignator=R023 SPEED SEL NewDesignator=R023SS
+Change Component Designator: OldDesignator=R024 SPEED SEL NewDesignator=R024SS
+Change Component Designator: OldDesignator=R025 SPEED SEL NewDesignator=R025SS
+Change Component Designator: OldDesignator=R026 SPEED SEL NewDesignator=R026SS
+Change Component Designator: OldDesignator=R035 SPEED SEL NewDesignator=R035SS
+Change Component Designator: OldDesignator=R36 SPEED SEL NewDesignator=R36SS
+Change Component Designator: OldDesignator=R126 SPEED SEL NewDesignator=R126SS
+Change Component Designator: OldDesignator=R127 SPEED SEL NewDesignator=R127SS
+Change Component Designator: OldDesignator=R128 SPEED SEL NewDesignator=R128SS
+Change Component Designator: OldDesignator=R129 SPEED SEL NewDesignator=R129SS
+Change Component Designator: OldDesignator=R130 SPEED SEL NewDesignator=R130SS
+Change Component Designator: OldDesignator=R131 SPEED SEL NewDesignator=R131SS
+Change Component Designator: OldDesignator=U11 PWM NewDesignator=U11 SS
+Change Net Name : Old Net Name=NetR035 SPEED SEL_1 New Net Name=NetR035SS_1
+Change Net Name : Old Net Name=NetR126 SPEED SEL_2 New Net Name=NetR126SS_2
+Change Net Name : Old Net Name=NetR127 SPEED SEL_1 New Net Name=NetR127SS_1
+Change Net Name : Old Net Name=NetR130 SPEED SEL_2 New Net Name=NetR130SS_2

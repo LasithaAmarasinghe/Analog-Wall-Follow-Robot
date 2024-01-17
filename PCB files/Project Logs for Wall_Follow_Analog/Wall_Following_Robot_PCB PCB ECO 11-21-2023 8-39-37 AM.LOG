@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=R43 INS AMP NewDesignator=R43IW
+Change Component Designator: OldDesignator=R44 INS AMP NewDesignator=R44IW
+Change Net Name : Old Net Name=NetR43 INS AMP_2 New Net Name=NetR43IW_2
+Change Net Name : Old Net Name=NetR44 INS AMP_1 New Net Name=NetR44IW_1

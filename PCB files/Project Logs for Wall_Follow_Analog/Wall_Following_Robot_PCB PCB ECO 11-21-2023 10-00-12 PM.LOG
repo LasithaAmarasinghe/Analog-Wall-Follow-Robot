@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=Switching_BaseSpeed Pin=IC?-1
+Removed Pin From Net: NetName=U4 SPEED SEL 4OUT Pin=IC?-2
+Removed Pin From Net: NetName=GND Pin=IC?-3
+Removed Pin From Net: NetName=+VSS Pin=IC?-4
+Removed Pin From Net: NetName=U11 SPEED SEL 4OUT Pin=IC?-6
+Removed Pin From Net: NetName=-VSS Pin=IC?-7
+Removed Pin From Net: NetName=BS STOP FINAL PID Pin=IC?-8
+Removed Member From Class: ClassName=Sheet1 Member=IC?
+Change Component Designator: OldDesignator=IC NewDesignator=IC_SS
+Added Pin To Net: NetName=BS STOP FINAL PID Pin=IC_SS-1
+Added Pin To Net: NetName=Switching_BaseSpeed Pin=IC_SS-2
+Added Pin To Net: NetName=U4 SPEED SEL 4OUT Pin=IC_SS-3
+Added Pin To Net: NetName=GND Pin=IC_SS-4
+Added Pin To Net: NetName=U11 SPEED SEL 4OUT Pin=IC_SS-7
+Added Pin To Net: NetName=5V Pin=IC_SS-8

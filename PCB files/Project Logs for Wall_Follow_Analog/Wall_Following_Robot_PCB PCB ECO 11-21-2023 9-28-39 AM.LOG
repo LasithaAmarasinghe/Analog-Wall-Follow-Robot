@@ -1,0 +1,48 @@
+Change Component Designator: OldDesignator=C3 PID DIS DIFF NewDesignator=C3 PIDDD
+Change Component Designator: OldDesignator=C5 PID DIS INT NewDesignator=C5PIDID
+Change Component Designator: OldDesignator=C6 PID DIS DIFF NewDesignator=C6PIDDD
+Change Component Designator: OldDesignator=R7 PID PROP SMD NewDesignator=R7PIDPW
+Change Component Designator: OldDesignator=R8 PID PROP SMD NewDesignator=R8PIDPW
+Change Component Designator: OldDesignator=R9 PID PROP SMD NewDesignator=R9PIDPW
+Change Component Designator: OldDesignator=R12 PID PROP SMD NewDesignator=R12PIDPW
+Change Component Designator: OldDesignator=R15 NewDesignator=R15PIDPW
+Change Component Designator: OldDesignator=R17 PID PROP NewDesignator=R17PIDPW
+Change Component Designator: OldDesignator=R23 PID ADDER NewDesignator=R23PIDAW
+Change Component Designator: OldDesignator=R24 PID ADDER NewDesignator=R24PIDAVW
+Change Component Designator: OldDesignator=R24 PID ADDER SMD NewDesignator=R24PIDAW
+Change Component Designator: OldDesignator=R27 NewDesignator=R27PIDPD
+Change Component Designator: OldDesignator=R28 NewDesignator=R28PIDID
+Change Component Designator: OldDesignator=R31 NewDesignator=R31PIDDD
+Change Component Designator: OldDesignator=R32 PID ADD INT SMD NewDesignator=R32PIDAW
+Change Component Designator: OldDesignator=R33 PID ADD DIFF SMD NewDesignator=R33PIDAW
+Change Component Designator: OldDesignator=R34 PID ADD PROP SMD NewDesignator=R34PIDAW
+Change Component Designator: OldDesignator=R35 PID ADD NewDesignator=R35PIDAW
+Change Component Designator: OldDesignator=R64 PID DIS DIFF NewDesignator=R64PIDDD
+Change Component Designator: OldDesignator=R80 PID DIS INT NewDesignator=R80PIDID
+Change Component Designator: OldDesignator=R81 PID DIS INT NewDesignator=R81PIDID
+Change Component Designator: OldDesignator=R82 PID DIS INT NewDesignator=R82PIDID
+Change Component Designator: OldDesignator=R83 PID DIS PROP NewDesignator=R83PIDPD
+Change Component Designator: OldDesignator=R84 PID DIS PROP NewDesignator=R84PIDPD
+Change Component Designator: OldDesignator=R85 PID DIS PROP NewDesignator=R85PIDPD
+Change Component Designator: OldDesignator=R86 PID DIS DIFF NewDesignator=R86PIDDD
+Change Component Designator: OldDesignator=R87 PID DIS INT NewDesignator=R87PIDID
+Change Component Designator: OldDesignator=R88 PID DIS PROP NewDesignator=R88PIDPD
+Change Component Designator: OldDesignator=R89 PID DIS PROP NewDesignator=R89PIDPD
+Change Component Designator: OldDesignator=R90 PID DIS INT NewDesignator=R90PIDID
+Change Component Designator: OldDesignator=R91 PID DIS DIFF NewDesignator=R91PIDDD
+Change Component Designator: OldDesignator=R92 PID DIS ADDER NewDesignator=R92PIDAD
+Change Component Designator: OldDesignator=R93 PID DIS ADDER NewDesignator=R93PIDAD
+Change Component Designator: OldDesignator=R94 PID DIS ADDER NewDesignator=R94PIDAD
+Change Component Designator: OldDesignator=R95 PID DIS ADDER NewDesignator=R95PIDAD
+Change Component Designator: OldDesignator=R105 PID DIS ADDER NewDesignator=R105PIDAD
+Change Component Designator: OldDesignator=R106 PID DIS ADDER NewDesignator=R106PIDAD
+Change Component Designator: OldDesignator=R107 PID DIS ADDER NewDesignator=R107PIDAD
+Change Component Designator: OldDesignator=R108 PID DIS DIFF NewDesignator=R108PIDDD
+Change Component Designator: OldDesignator=R109 PID DIS DIFF NewDesignator=R109PIDDD
+Change Component Designator: OldDesignator=U1 PID NewDesignator=U1 PID ID
+Change Component Designator: OldDesignator=U2 PID PROP and ADD NewDesignator=U2 PID PA
+Change Net Name : Old Net Name=NetC3 PID DIS DIFF_1 New Net Name=NetC3 PIDDD_1
+Change Net Name : Old Net Name=NetR23 PID ADDER_2 New Net Name=NetR23PIDAW_2
+Change Net Name : Old Net Name=NetR24 PID ADDER SMD_1 New Net Name=NetR24PIDAVW_3
+Change Net Name : Old Net Name=NetR105 PID DIS ADDER_2 New Net Name=NetR105PIDAD_2
+Change Net Name : Old Net Name=NetR106 PID DIS ADDER_1 New Net Name=NetR106PIDAD_1

@@ -1,0 +1,14 @@
+Change Component Designator: OldDesignator=R47 INS AMP DIS NewDesignator=R47ID
+Change Component Designator: OldDesignator=R48 INS AMP DIS NewDesignator=R48ID
+Change Component Designator: OldDesignator=R50 INS AMP DIS NewDesignator=R50ID
+Change Component Designator: OldDesignator=R116 INS AMP DIS NewDesignator=R116ID
+Change Component Designator: OldDesignator=R117 INS AMP DIS NewDesignator=R117ID
+Change Component Designator: OldDesignator=R118 INS AMP DIS NewDesignator=R118ID
+Change Component Designator: OldDesignator=R119 INS AMP DIS NewDesignator=R119ID
+Change Component Designator: OldDesignator=R120 INS AMP DIS NewDesignator=R120ID
+Change Component Designator: OldDesignator=R121 INS AMP DIS NewDesignator=R121ID
+Change Component Designator: OldDesignator=R123 INS AMP DIS NewDesignator=R123ID
+Change Component Designator: OldDesignator=R124 INS AMP DIS NewDesignator=R124ID
+Change Component Designator: OldDesignator=U6 INS AMP DISTANCE NewDesignator=U6ID
+Change Net Name : Old Net Name=NetR123 INS AMP DIS_2 New Net Name=NetR123ID_2
+Change Net Name : Old Net Name=NetR124 INS AMP DIS_1 New Net Name=NetR124ID_1

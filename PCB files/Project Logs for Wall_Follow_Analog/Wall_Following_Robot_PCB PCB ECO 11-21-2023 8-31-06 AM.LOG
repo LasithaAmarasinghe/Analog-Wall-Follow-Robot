@@ -1,0 +1,31 @@
+Change Component Designator: OldDesignator=C1PWMW NewDesignator=C1 PID DIFF SMD
+Change Component Designator: OldDesignator=C2 PWM DIFF NewDesignator=C2PIDW
+Change Component Designator: OldDesignator=R1PIDW NewDesignator=R1 PID DIFF SMD
+Change Component Designator: OldDesignator=R2PIDW NewDesignator=R2 PID DIFF SMD
+Change Component Designator: OldDesignator=R6 PID DIFF SMD NewDesignator=R5 PID DIFF SMD
+Change Component Designator: OldDesignator=R36IW NewDesignator=R36 INS AMP SMD
+Change Component Designator: OldDesignator=R37IW NewDesignator=R37 INS AMP SMD
+Change Component Designator: OldDesignator=R39IW NewDesignator=R39 INS AMP SMD
+Change Component Designator: OldDesignator=R40IW NewDesignator=R40 INS AMP SMD
+Change Component Designator: OldDesignator=R41IW NewDesignator=R41 INS AMP SMD
+Change Component Designator: OldDesignator=R42IW NewDesignator=R42 INS AMP
+Change Component Designator: OldDesignator=R43ID NewDesignator=R43 INS AMP
+Change Component Designator: OldDesignator=R44ID NewDesignator=R44 INS AMP
+Change Component Designator: OldDesignator=R45IW NewDesignator=R45 INS AMP
+Change Component Designator: OldDesignator=R47ID NewDesignator=R47 INS AMP DIS
+Change Component Designator: OldDesignator=R48ID NewDesignator=R48 INS AMP DIS
+Change Component Designator: OldDesignator=R50ID NewDesignator=R50 INS AMP DIS
+Change Component Designator: OldDesignator=R115IW NewDesignator=R115 INS AMP SMD
+Change Component Designator: OldDesignator=R116ID NewDesignator=R116 INS AMP DIS
+Change Component Designator: OldDesignator=R117ID NewDesignator=R117 INS AMP DIS
+Change Component Designator: OldDesignator=R118ID NewDesignator=R118 INS AMP DIS
+Change Component Designator: OldDesignator=R118IW NewDesignator=R118 INS AMP SMD
+Change Component Designator: OldDesignator=R119ID NewDesignator=R119 INS AMP DIS
+Change Component Designator: OldDesignator=R120ID NewDesignator=R120 INS AMP DIS
+Change Component Designator: OldDesignator=R121ID NewDesignator=R121 INS AMP DIS
+Change Component Designator: OldDesignator=R123ID NewDesignator=R123 INS AMP DIS
+Change Component Designator: OldDesignator=R124ID NewDesignator=R124 INS AMP DIS
+Change Component Designator: OldDesignator=R125ID NewDesignator=R125 INS AMP DIS
+Change Component Designator: OldDesignator=U1PIDW NewDesignator=U1 PID SMD
+Change Component Designator: OldDesignator=U5IW NewDesignator=U5 INS AMP WALL
+Change Component Designator: OldDesignator=U6ID NewDesignator=U6 INS AMP DISTANCE

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=Switching_BaseSpeed Pin=IC_SPDT 2-1
+Removed Pin From Net: NetName=U4 SPEED SEL 4OUT Pin=IC_SPDT 2-2
+Removed Pin From Net: NetName=GND Pin=IC_SPDT 2-3
+Removed Pin From Net: NetName=+VSS Pin=IC_SPDT 2-4
+Removed Pin From Net: NetName=U11 SPEED SEL 4OUT Pin=IC_SPDT 2-6
+Removed Pin From Net: NetName=-VSS Pin=IC_SPDT 2-7
+Removed Pin From Net: NetName=BS STOP FINAL PID Pin=IC_SPDT 2-8
+Removed Member From Class: ClassName=Sheet1 Member=IC_SPDT 2

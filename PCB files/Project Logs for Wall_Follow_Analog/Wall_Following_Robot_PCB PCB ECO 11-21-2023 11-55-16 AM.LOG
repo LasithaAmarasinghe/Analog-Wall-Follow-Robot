@@ -1,0 +1,25 @@
+Change Component Designator: OldDesignator=C9 PWM NewDesignator=C9PWMT
+Change Component Designator: OldDesignator=R01 PWM SMD NewDesignator=R01PWMT
+Change Component Designator: OldDesignator=R02 PWM SMD NewDesignator=R02PWMT
+Change Component Designator: OldDesignator=R03 PWM SMD NewDesignator=R03PWM
+Change Component Designator: OldDesignator=R06 PWM SMD NewDesignator=R06PWMCL
+Change Component Designator: OldDesignator=R010 PWM SMD NewDesignator=R010PWMCL
+Change Component Designator: OldDesignator=R011 PWM SMD NewDesignator=R011PWMCL
+Change Component Designator: OldDesignator=R012 PWM SMD NewDesignator=R012PWMCL
+Change Component Designator: OldDesignator=R013 PWM SMD NewDesignator=R013PWMCL
+Change Component Designator: OldDesignator=R014 PWM SMD NewDesignator=R014PWMCL
+Change Component Designator: OldDesignator=R015 PWM SMD NewDesignator=R015PWMCL
+Change Component Designator: OldDesignator=R016 PWM SMD NewDesignator=R016PWMCL
+Change Component Designator: OldDesignator=R017 PWM SMD NewDesignator=R017PWMCL
+Change Component Designator: OldDesignator=R018 PWM SMD NewDesignator=R018PWMCL
+Change Component Designator: OldDesignator=R26 PWM SMD NewDesignator=R26PWMCL
+Change Component Designator: OldDesignator=R29 PWM SMD NewDesignator=R29PWMCL
+Change Component Designator: OldDesignator=R46 PWM SMD NewDesignator=R46PWMCL
+Change Component Designator: OldDesignator=R53 PWM SMD NewDesignator=R53PWMT
+Change Component Designator: OldDesignator=R54 PWM SMD NewDesignator=R54PWMT
+Change Component Designator: OldDesignator=R58 PWM SMD NewDesignator=R58PWMC
+Change Component Designator: OldDesignator=R59 PWM SMD NewDesignator=R59PWMC
+Change Component Designator: OldDesignator=R63 PWM NewDesignator=R63PWMC
+Change Component Designator: OldDesignator=R74 PWM SMD NewDesignator=R74PWMCL
+Change Component Designator: OldDesignator=R79 PWM SMD NewDesignator=R79PWMC
+Change Component Designator: OldDesignator=U7 PWM NewDesignator=U7PWM

@@ -1,0 +1,34 @@
+Added Component: Designator=IC_SPDT 2(SOP65P490X110-8N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "TS12A12511DGKR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ts12a12511dgkr/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://uk.rs-online.com/web/p/products/8255365P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TS12A12511DGKR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-TS12A12511DGKR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TS12A12511DGKR?qs=DS7Z8uEdLNzs0bEsFFa4bQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC_SPDT(SOP65P490X110-8N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "TS12A12511DGKR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ts12a12511dgkr/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://uk.rs-online.com/web/p/products/8255365P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TS12A12511DGKR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-TS12A12511DGKR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TS12A12511DGKR?qs=DS7Z8uEdLNzs0bEsFFa4bQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Switching_BaseSpeed Pin=IC_SPDT 2-1
+Added Pin To Net: NetName=U4 SPEED SEL 4OUT Pin=IC_SPDT 2-2
+Added Pin To Net: NetName=GND Pin=IC_SPDT 2-3
+Added Pin To Net: NetName=+VSS Pin=IC_SPDT 2-4
+Added Pin To Net: NetName=U11 SPEED SEL 4OUT Pin=IC_SPDT 2-6
+Added Pin To Net: NetName=-VSS Pin=IC_SPDT 2-7
+Added Pin To Net: NetName=BS STOP FINAL PID Pin=IC_SPDT 2-8
+Added Pin To Net: NetName=Switching_BaseSpeed Pin=IC_SPDT-1
+Added Pin To Net: NetName=U4 SPEED SEL 4OUT Pin=IC_SPDT-2
+Added Pin To Net: NetName=GND Pin=IC_SPDT-3
+Added Pin To Net: NetName=+VSS Pin=IC_SPDT-4
+Added Pin To Net: NetName=U11 SPEED SEL 4OUT Pin=IC_SPDT-6
+Added Pin To Net: NetName=-VSS Pin=IC_SPDT-7
+Added Pin To Net: NetName=BS STOP FINAL PID Pin=IC_SPDT-8
+Added Member To Class: ClassName=Sheet1 Member=Component IC_SPDT 2 TS12A12511DGKR
+Added Member To Class: ClassName=Sheet1 Member=Component IC_SPDT TS12A12511DGKR

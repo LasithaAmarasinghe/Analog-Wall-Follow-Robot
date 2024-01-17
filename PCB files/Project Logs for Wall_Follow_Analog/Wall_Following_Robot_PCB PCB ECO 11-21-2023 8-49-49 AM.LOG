@@ -1,0 +1,16 @@
+Change Component Designator: OldDesignator=C1 PID DIFF SMD NewDesignator=C1PIDDW
+Change Component Designator: OldDesignator=C2PIDW NewDesignator=C2PIDDW
+Change Component Designator: OldDesignator=C4 PID INT SMD NewDesignator=C4PIDIW
+Change Component Designator: OldDesignator=R1 PID DIFF SMD NewDesignator=R1PIDDW
+Change Component Designator: OldDesignator=R2 PID DIFF SMD NewDesignator=R2PIDDW
+Change Component Designator: OldDesignator=R3 PID INT SMD NewDesignator=R3PIDIW
+Change Component Designator: OldDesignator=R4 PID INT SMD NewDesignator=R4PIDIW
+Change Component Designator: OldDesignator=R5 PID DIFF SMD NewDesignator=R5PIDDW
+Change Component Designator: OldDesignator=R6 PID INT SMD NewDesignator=R6PIDIW
+Change Component Designator: OldDesignator=R10 PID DIFF SMD NewDesignator=R10PIDDW
+Change Component Designator: OldDesignator=R11 PID INT SMD NewDesignator=R11PIDIW
+Change Component Designator: OldDesignator=R13 PID INT NewDesignator=R13PIDIW
+Change Component Designator: OldDesignator=R16 NewDesignator=R16PIDIW
+Change Component Designator: OldDesignator=R18 NewDesignator=R18PIDDW
+Change Component Designator: OldDesignator=U1 PID SMD NewDesignator=U1 PID
+Change Net Name : Old Net Name=NetC1 PID DIFF SMD_1 New Net Name=NetC1PIDDW_1
