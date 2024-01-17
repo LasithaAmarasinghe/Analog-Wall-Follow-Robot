@@ -18,7 +18,7 @@ This is a group project done under the module EN2091 - Laboratory Practice and P
 *  Then using the motor driver, PWM signals are fed to the left and right wheels. 
 *  The robot tracks the walls and travels on the centerline between walls.
 
-![image](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/assets/106037441/d43360f0-a20c-4753-83d8-2d1e751c7bcd)
+![image](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/assets/106037441/68c7d26a-6e3c-42f4-9463-8e1196b14ca5)
 
 ## Sub Circuits and Tasks
 
