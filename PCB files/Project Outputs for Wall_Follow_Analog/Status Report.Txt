@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Wall_Follow_Analog.PrjPcb]
+   Generated File[Wall_Following_Robot_PCB.TXT]
+   Generated File[Wall_Following_Robot_PCB.LDP]
+   Generated File[Wall_Following_Robot_PCB.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 5:04:01 PM On 11/22/2023
