@@ -1,13 +1,6 @@
 # Analog Wall Following Robot
 This is a group project done under the module EN2091 - Laboratory Practice and Projects, Semester 3, Department of Electronic and Telecommunication Engineering, University of Moratuwa. 
 
-
-**Team Members**
-  * Lasitha Amarasinghe
-  * Ruchira Abeywardhane
-  * Sahan Abeyrathne
-  * Dinujaya Wijewickrama
-
 **Introduction**
 
 *  Wall following robot is a robot that follows a wall and travels keeping a constant distance from the wall. 
@@ -50,8 +43,19 @@ This is a group project done under the module EN2091 - Laboratory Practice and P
 * Altium Designer
 * Multisim
 
+**Enclosure Design**
+
 ![Screenshot 2024-01-17 061048](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/assets/106037441/194de710-68c9-488a-863e-5720f45de2e3)
+
+**PCB Design**
 
 ![Screenshot 2024-01-17 061105](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/assets/106037441/3d634f6e-09d5-489e-bc33-8ddfe3addcb4)
 
 ![Screenshot 2024-01-17 061120](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/assets/106037441/9f6abf7a-bebd-4099-b00e-d726d3bc01c8)
+
+**Team Members**
+
+  * Lasitha Amarasinghe
+  * Ruchira Abeywardhane
+  * Sahan Abeyrathne
+  * Dinujaya Wijewickrama
