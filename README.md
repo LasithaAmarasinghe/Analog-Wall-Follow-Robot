@@ -16,3 +16,21 @@ This is a group project done under the module EN2091 - Laboratory Practice and P
 
 ![IMG-20231206-WA0097](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/assets/106037441/241e426e-1c0c-4cf3-a58a-3e9705a20f41)
 
+**Working Concept**
+
+*  We measured the distance from the robot to the side walls using two sharp IR sensors. 
+*  Then using a PID control circuit, a signal is generated so that the robot tracks the walls and travels on the centerline between walls.
+
+**Sub Circuits and Tasks**
+
+✅Instrumentation Amplifier- Reduce noise in Sharp IR sensor outputs and amplify signals
+✅PID circuit- Control the error signal smoothly using feedback
+✅Adder & Subtractor- Generate two PWM signals with varying duty cycles according to PID output
+      💠Motor 1= base speed + PID output
+			         💠Motor 2= base speed - PID output
+✅PWM circuit- Generate two different comparator voltages for the two motors
+			  💠Motor 1 duty cycle ∝ base speed + PID output
+		  	  💠Motor 2 duty cycle ∝ base speed - PID output
+✅Voltage Regulator- To get 3.3V and 5V for required parts accordingly
+✅Speed Selector- Manually control the base speed
+  
