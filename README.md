@@ -23,14 +23,20 @@ This is a group project done under the module EN2091 - Laboratory Practice and P
 
 **Sub Circuits and Tasks**
 
-✅Instrumentation Amplifier- Reduce noise in Sharp IR sensor outputs and amplify signals
-✅PID circuit- Control the error signal smoothly using feedback
-✅Adder & Subtractor- Generate two PWM signals with varying duty cycles according to PID output
-      💠Motor 1= base speed + PID output
-			         💠Motor 2= base speed - PID output
-✅PWM circuit- Generate two different comparator voltages for the two motors
-			  💠Motor 1 duty cycle ∝ base speed + PID output
-		  	  💠Motor 2 duty cycle ∝ base speed - PID output
-✅Voltage Regulator- To get 3.3V and 5V for required parts accordingly
-✅Speed Selector- Manually control the base speed
-  
+* Instrumentation Amplifier- Reduce noise in Sharp IR sensor outputs and amplify signals
+* PID circuit- Control the error signal smoothly using feedback
+* Adder & Subtractor- Generate two PWM signals with varying duty cycles according to PID output
+                           * Motor 1= base speed + PID output
+		           * Motor 2= base speed - PID output
+* PWM circuit- Generate two different comparator voltages for the two motors
+			   * Motor 1 duty cycle ∝ base speed + PID output
+		  	   * Motor 2 duty cycle ∝ base speed - PID output
+* Voltage Regulator- To get 3.3V and 5V for required parts accordingly
+* Speed Selector- Manually control the base speed
+
+**Hardware Specifications**
+
+* TL084CN ICs
+* Two Sharp IR Sensors
+* Two N20 Motors
+* L298N Motor Driver
