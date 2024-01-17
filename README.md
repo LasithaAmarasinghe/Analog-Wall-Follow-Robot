@@ -40,3 +40,18 @@ This is a group project done under the module EN2091 - Laboratory Practice and P
 * Two Sharp IR Sensors
 * Two N20 Motors
 * L298N Motor Driver
+* Wheels
+* SMD resistors
+* SMD capacitors
+
+**Software Specifications**
+
+* Solid Works
+* Altium Designer
+* Multisim
+
+![Screenshot 2024-01-17 061048](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/assets/106037441/194de710-68c9-488a-863e-5720f45de2e3)
+
+![Screenshot 2024-01-17 061105](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/assets/106037441/3d634f6e-09d5-489e-bc33-8ddfe3addcb4)
+
+![Screenshot 2024-01-17 061120](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/assets/106037441/9f6abf7a-bebd-4099-b00e-d726d3bc01c8)
