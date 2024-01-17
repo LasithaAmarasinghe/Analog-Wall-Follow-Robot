@@ -55,7 +55,4 @@ This is a group project done under the module EN2091 - Laboratory Practice and P
 
 **Team Members**
 
-  * Lasitha Amarasinghe
-  * Ruchira Abeywardhane
-  * Sahan Abeyrathne
-  * Dinujaya Wijewickrama
+![image](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/assets/106037441/2d9a9b91-cac6-405b-b309-e2aa63132ca0)
