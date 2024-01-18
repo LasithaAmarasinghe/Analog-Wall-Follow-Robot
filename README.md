@@ -35,10 +35,10 @@ This is a group project done under the module EN2091 - Laboratory Practice and P
 
 ## Hardware Specifications
 
-* TL084CN ICs
-* Two Sharp IR Sensors
-* Two N20 Motors
-* L298N Motor Driver
+* [TL084CN ICs](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/blob/main/data%20sheets/TL084CN_GeneralPurposeAmplifier.pdf)
+* Two [Sharp IR Sensors](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/blob/main/data%20sheets/Sharp%20IR%20Sensor.pdf) 
+* Two [N20 Motors](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/blob/main/data%20sheets/GA12-N20%20Motor.pdf)
+* [L298N Motor Driver](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/blob/main/data%20sheets/L298%20Motor%20Driver.PDF)
 * Wheels
 * Surface Mount Resistors
 * Surface Mount Capacitors
