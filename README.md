@@ -51,7 +51,7 @@ This is a group project done under the module EN2091 - Laboratory Practice and P
 
 ## Enclosure Design
 
-![Screenshot 2024-01-17 061048](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/assets/106037441/194de710-68c9-488a-863e-5720f45de2e3)
+![297237961-194de710-68c9-488a-863e-5720f45de2e3](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/assets/106037441/2d6a547f-fbf7-422a-8413-5abb84247a53)
 
 ## PCB Design
 
