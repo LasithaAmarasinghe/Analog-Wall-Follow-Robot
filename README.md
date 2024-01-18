@@ -40,8 +40,8 @@ This is a group project done under the module EN2091 - Laboratory Practice and P
 * Two N20 Motors
 * L298N Motor Driver
 * Wheels
-* SMD(Surface Mount Device) resistors
-* SMD(Surface Mount Device) capacitors
+* Surface Mount Resistors
+* Surface Mount Capacitors
 
 ## Software Specifications
 
