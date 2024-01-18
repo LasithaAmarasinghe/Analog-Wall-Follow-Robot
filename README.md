@@ -23,16 +23,16 @@ This is a group project done under the module EN2091 - Laboratory Practice and P
 
 ## Sub Circuits and Tasks
 
-* Instrumentation Amplifier- Reduce noise in Sharp IR sensor outputs and amplify signals
-* PID circuit- Control the error signal smoothly using feedback
-* Adder & Subtractor- Generate two PWM signals with varying duty cycles according to PID output
+* [Instrumentation Amplifier](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/blob/main/Circuits/Instrumentation%20Amplifier.jpg)- Reduce noise in Sharp IR sensor outputs and amplify signals
+* [PID circuit](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/blob/main/Circuits/PID.jpg)- Control the error signal smoothly using feedback
+* [Adder & Subtractor](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/blob/main/Circuits/Adder%20%26%20Substractor.jpg)- Generate two PWM signals with varying duty cycles according to PID output
 	* Motor 1= base speed + PID output
 	* Motor 2= base speed - PID output
-* PWM circuit- Generate two different comparator voltages for the two motors
+* [PWM circuit](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/blob/main/Circuits/PWM.jpg)- Generate two different comparator voltages for the two motors
 	* Motor 1 duty cycle ∝ base speed + PID output
 	* Motor 2 duty cycle ∝ base speed - PID output
-* Voltage Regulator- To get 3.3V and 5V for required parts accordingly
-* Speed Selector- Manually control the base speed
+* [Voltage Regulator](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/blob/main/Circuits/Voltage%20Regulator.png)- To get 3.3V and 5V for required parts accordingly
+* [Speed Selector](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/blob/main/Circuits/Speed%20Selector.png)- Manually control the base speed
 
 ## Hardware Specifications
 
