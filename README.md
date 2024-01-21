@@ -12,12 +12,19 @@ This is a group project done under the module EN2091 - Laboratory Practice and P
 
 ## Working Concept
 
-*  We measured the distance from the robot to the side walls using two sharp IR sensors. 
-*  Then using a PID control circuit, an error signal is generated.
-*  That error signal is fed to the adder and subtractor circuits.
-*  Two PWM signals with varying duty cycles are generated.
-*  Then using the motor driver, PWM signals are fed to the left and right wheels. 
+*  The distance from the robot to the side walls is measured using two sharp IR sensors.
+*  The difference between the sharp IR is taken as the error signal and fed into a PID control circuit.
+*  The PID output signal is fed to the adder and subtractor circuits.
+*  Two PWM signals with varying duty cycles are generated using the PID output and a comparator circuit.
+*  Then using the motor driver, PWM signals are fed to the left and right wheels.
 *  The robot tracks the walls and travels on the centerline between walls.
+*  Additionally we added another Sharp IR sensor to control the speed of the robot.
+*  The measured distance is compared with a predefined distance and the difference is taken as the error signal.
+*  The error signal is fed to a PID control circuit.
+*  A PWM signal is generated using the PID output and a comparator circuit.
+*  This PWM signal acts as the Base speed of the robot.
+*  Consequently the additional sharp IR sensor will vary the speed of the car accordingly.
+
 
 ![image](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/assets/106037441/49f70bd2-af03-46a3-9955-452a3b607f5d)
 
