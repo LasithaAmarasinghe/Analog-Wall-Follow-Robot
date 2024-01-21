@@ -43,7 +43,7 @@ This is a group project done under the module EN2091 - Laboratory Practice and P
 * Wheels
 * [Surface Mount Resistors](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/blob/main/Components/resistors.png)
 * [Surface Mount Capacitors](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/blob/main/Components/capacitors.png)
-* [Other Components]
+* [Other Components](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/blob/main/Components/other%20components.png)
 
 ## Software Specifications
 
