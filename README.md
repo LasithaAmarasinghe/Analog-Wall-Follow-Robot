@@ -5,17 +5,17 @@ This is a group project done under the module EN2091 - Laboratory Practice and P
 
 *  Wall following robot is a robot that follows a wall and travels keeping a constant distance from the wall. 
 *  Wall following is a common task in many robotics competitions.
-*  But the interesting point is our project was to build a robot that travels on the centerline between two walls, using only analog electronics.
+*  But the interesting point is our project was to build a robot that travels on the centerline between two walls using only analog electronics.
 *  That means we couldn’t use microcontrollers according to the [guidelines](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/blob/main/Project_Guidelines.pdf).
 
 ![IMG-20231206-WA0097](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/assets/106037441/241e426e-1c0c-4cf3-a58a-3e9705a20f41)
 
 ## Working Concept
 
-*  The distance from the robot to the side walls is measured using two sharp IR sensors.
+*  Two sharp IR sensors measure The distance from the robot to the side walls.
 *  The difference between the sharp IR is taken as the error signal and fed into a PID control circuit.
 *  The PID output signal is fed to the adder and subtractor circuits.
-*  Two PWM signals with varying duty cycles are generated using the PID output and a comparator circuit.
+*  The PID output and a comparator circuit generate two PWM signals with varying duty cycles.
 *  Then using the motor driver, PWM signals are fed to the left and right wheels.
 *  The robot tracks the walls and travels on the centerline between walls.
 *  Additionally we added another sharp IR sensor to the front of the robot to control the speed of the robot.
@@ -23,7 +23,7 @@ This is a group project done under the module EN2091 - Laboratory Practice and P
 *  The error signal is fed to a PID control circuit.
 *  A PWM signal is generated using the PID output and a comparator circuit.
 *  This PWM signal acts as the Base speed of the robot.
-*  Consequently the additional sharp IR sensor will vary the speed of the car accordingly.
+*  Consequently the additional sharp IR sensor will vary the car's speed accordingly.
 
 ![image](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/assets/106037441/49f70bd2-af03-46a3-9955-452a3b607f5d)
 
