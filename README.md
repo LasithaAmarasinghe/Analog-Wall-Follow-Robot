@@ -78,4 +78,8 @@ This is a group project done under the module EN2091 - Laboratory Practice and P
 
 ![image](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/assets/106037441/2d9a9b91-cac6-405b-b309-e2aa63132ca0)
 
+## License
+ 
+ * This project is licensed under the MIT License. See the [LICENSE](MIT-LICENSE.txt) file for details.
+   
 ## For More Information - [Project Report](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/blob/main/Project_Report.pdf)
