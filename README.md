@@ -57,6 +57,11 @@ This is a group project done under the module EN2091 - Laboratory Practice and P
 * Altium Designer
 * Multisim
 
+![Solidworks](https://img.shields.io/badge/Solid_Works_-red)
+![Altium](https://img.shields.io/badge/Altium_Designer_-%23A5915F?logo=altiumdesigner&logoColor=white)
+![Multisim](https://img.shields.io/badge/Multisim_-%2357B685?logo=multisim&logoColor=white)
+
+
 ## Enclosure Design
 
 ![297237961-194de710-68c9-488a-863e-5720f45de2e3](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/assets/106037441/2d6a547f-fbf7-422a-8413-5abb84247a53)
