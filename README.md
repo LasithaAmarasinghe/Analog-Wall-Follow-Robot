@@ -76,7 +76,10 @@ This is a group project done under the module EN2091 - Laboratory Practice and P
 
 ## Team Members
 
-![image](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/assets/106037441/2d9a9b91-cac6-405b-b309-e2aa63132ca0)
+![image](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/assets/106037441/5d1eefcf-3d5b-4ee2-8885-1eb820ad0053)
+![image](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/assets/106037441/5746e874-041f-421d-990f-f92470da315d)
+
+
 
 ## License
  
