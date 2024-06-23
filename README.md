@@ -12,8 +12,8 @@ This is a group project done under the module EN2091 - Laboratory Practice and P
 
 ## Working Concept
 
-*  Two sharp IR sensors measure The distance from the robot to the side walls.
-*  The difference between the sharp IR is taken as the error signal and fed into a PID control circuit.
+*  Two sharp IR sensors measure the distance from the robot to the side walls.
+*  The difference between the sharp IR sensor values is taken as the error signal and fed into a PID control circuit.
 *  The PID output signal is fed to the adder and subtractor circuits.
 *  The PID output and a comparator circuit generate two PWM signals with varying duty cycles.
 *  Then using the motor driver, PWM signals are fed to the left and right wheels.
